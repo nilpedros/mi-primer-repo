@@ -1,2 +1,2 @@
 # mi-primer-repo
-Repositorio Nil Pedrós Cabrillana
+Soy estudiante en prácticas de ASIR

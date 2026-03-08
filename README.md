@@ -1,2 +1,2 @@
 # mi-primer-repo
-Soy estudiante en prácticas de ASIR
+Practica de Git realizada desde Ubuntu
